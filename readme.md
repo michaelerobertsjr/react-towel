@@ -9,4 +9,4 @@ React Towel brings together babel-standalone, react, react-dom, and throw-in-the
 3. View the page
 5. Profit?
 
-Checkout an example be viewing the source for: [react-towel.surge.sh](http://react-towel.surge.sh)
+Checkout an example by viewing the source for: [react-towel.surge.sh](http://react-towel.surge.sh)
