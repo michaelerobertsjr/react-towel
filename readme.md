@@ -12,7 +12,6 @@ React Towel brings together babel-standalone, react, react-dom, and throw-in-the
 Checkout an example by viewing the source for: [react-towel.surge.sh](http://react-towel.surge.sh)
 
 ```es6
-
 <!DOCTYPE html>
 <html>
   <head>
