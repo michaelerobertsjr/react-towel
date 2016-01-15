@@ -16,9 +16,8 @@
     "webpack": "^1.12.9"
   },
   "dependencies": {
-    "babel-standalone": "^1.0.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
-    "throw-in-the-towel": "^1.0.2"
+    "throw-in-the-towel": "^2.0.2"
   }
 }
