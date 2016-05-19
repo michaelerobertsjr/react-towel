@@ -2,7 +2,7 @@
 
 Rapid React Prototyping
 
-React Towel brings together react, react-dom, and throw-in-the-towel to make it dead simple to start using React with JSX.
+React Towel brings together [react](https://github.com/facebook/react), [react-dom](https://github.com/facebook/react/tree/master/packages/react-dom), and [throw-in-the-towel](https://github.com/danmartinez101/throw-in-the-towel) to make it dead simple to start using React with JSX.
 
 1. Reference the script from a cdn
 2. Start writing code (including JSX) in `<script type="text/babel"></script>` tags
