@@ -16,7 +16,7 @@ React Towel brings together [react](https://github.com/facebook/react), [react-d
   <head>
     <meta charset="utf-8">
     <title></title>
-    <script src="https://npmcdn.com/react-towel@2/umd/react-towel.js" charset="utf-8"></script>
+    <script src="https://unpkg.com/react-towel@2/umd/react-towel.js" charset="utf-8"></script>
     <script type="text/babel">
       const Winner = () => <h1>winning?</h1>
       ReactDOM.render(
